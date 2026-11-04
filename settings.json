@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "friends-ONLY-smp01.aternos.me",
-    "port": 60455,
+    "port": 39080,
     "version": "1.21.1"
   },
   "position": {
