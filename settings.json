@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TheGODsmp-1.aternos.me",
-    "port": 60455,
+    "ip": "friends-ONLY-smp01.aternos.me",
+    "port": 39080,
     "version": "1.21.1"
   },
   "position": {
